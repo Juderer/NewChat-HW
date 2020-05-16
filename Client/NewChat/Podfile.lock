@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (5.1.0)
+  - GRDB.swift (4.13.0):
+    - GRDB.swift/standard (= 4.13.0)
+  - GRDB.swift/standard (4.13.0)
+  - LeanCloud/Foundation (17.5.2):
+    - Alamofire (~> 5.0)
+  - LeanCloud/RTM (17.5.2):
+    - GRDB.swift (~> 4.9)
+    - LeanCloud/Foundation (= 17.5.2)
+    - Starscream (~> 3.1)
+    - SwiftProtobuf (~> 1.8)
+  - SnapKit (5.0.1)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - Starscream (3.1.1)
+  - SwiftProtobuf (1.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.1)
+  - LeanCloud/Foundation
+  - LeanCloud/RTM
+  - SnapKit (~> 5.0.0)
+  - SQLite.swift (~> 0.12.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SQLite.swift
+  trunk:
+    - Alamofire
+    - GRDB.swift
+    - LeanCloud
+    - SnapKit
+    - Starscream
+    - SwiftProtobuf
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  GRDB.swift: c9cc798c8f12b354c2fbe04970c8e01bd188b72f
+  LeanCloud: cbb1c70dbc9a858992e69510d17ba716695e69f5
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftProtobuf: 2cbd9409689b7df170d82a92a33443c8e3e14a70
+
+PODFILE CHECKSUM: 5c18c26e6cec8bf4225550a8b775c5970faf4540
+
+COCOAPODS: 1.8.4

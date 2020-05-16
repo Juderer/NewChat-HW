@@ -1,0 +1,6 @@
+framework module Pods_NewChat {
+  umbrella header "Pods-NewChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
